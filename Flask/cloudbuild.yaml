@@ -1,0 +1,13 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/innate-agency-348220/flask-microservice-setup', '.']
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/innate-agency-348220/flask-microservice-setup']
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'flask-microservice-setup', '--image', 'gcr.io/innate-agency-348220/flask-microservice-setup', '--region', 'us-central1', '--platform', 'managed','--port','5000']
+images:
+- gcr.io/innate-agency-348220/flask-microservice-setup
