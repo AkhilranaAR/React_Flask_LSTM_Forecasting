@@ -11,7 +11,7 @@ module.exports = function (app) {
     createProxyMiddleware({
       // update the flask Google Cloud url
 
-      target: "https://flask-microservice-setup-dkd3xwjhgq-uc.a.run.app",
+      target: "https://flask-microservice-setup-2-dkd3xwjhgq-uc.a.run.app",
       changeOrigin: true,
     })
   );
