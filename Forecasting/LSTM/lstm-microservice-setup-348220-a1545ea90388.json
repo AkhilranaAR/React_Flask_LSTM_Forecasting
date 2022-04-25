@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lstm-microservice-setup-348220",
+  "private_key_id": "a1545ea90388cf8cdf528e5b5f36b34dfb41f021",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjlW18k8OqolIH\nKOADSfWf7FSzVomn+B8t9UlHmqIJNKMZ1gBlbAL5+BzQ8EQAf3T7W27W0lnei/0F\npiqTOFJ1m4aoHo4mhmSJmAt9LEOpubCs33hf8lEDDGPxyJxt+324iUV8loZ+T7s+\nFx7ILiPogFOIkzBg80AmngvUsmaWPx2IiEwXsFwVkT8COxKt0H1TSRq0BDHXMz22\nnm88dhNFxWO5FybXP4+H29XceYbLd7kgujjqIMsf5ewnWWc7tDV9sm2t7mdOT+SZ\nNq4PoI5apSnvtOvHqmUzcGSBqvZ+Y9fGXStLw4trTr60vKpHS+WjWwnnFGakRp2R\nFRoX3Nf9AgMBAAECggEAHO/M61GUNjX6fqu7XLmTipOatBKlzSG2GkIekV0INsqp\n42MYtNgzepZqOoeV7+ScA+67n6KcJSLsQjiPpXU8GPPHESw+hxAU7sYHmj/fREHF\nv/7T410Q+ZISh+2txkLLjX4y3YQfDG78N1KNrmmDDpjMrgcjcrL08R/aBej8/qyo\n138G0Fi+aIskGsCWE5GsSX3tYvqCaAXtg2X2Y9kvvPRe3CR6t3refBjrMRgiT9lw\nRukyUOH1A5RBdsIVsO9HIjhuM5Lf8U/IyDvPzg7F8g8DB2KZMiasrQeRHPGx6Zax\njOvOhseJlQQKPl06wH5dhhPVn78p+R7B9upA9SJ9oQKBgQDfNkru9fjXq0bF2mGY\npyd8KSMcdWwl/4+IYZfzkhqetdSmQj7dgrrbRE/WLeq5NXg2iU8cyRPSl3ZqDDWd\nrrtodiQfIZRJHtQbv3WaAghqw/waDzyOb1nZObRvpNazIgn4931SS9XfYF69x6Vg\niO4/6oAPTU938pZVQbFr16EsiQKBgQC7nNvRyMHQIQglVWmAS0DYdp1ZwW8Nkzie\nlIYDUjbOzznQgop+X2oB5+slHG6exZdHZzlxGZpYDJHu/lUWTuvb8jZBYxnCOw+I\n/PwD3qJzjV1cq5dgnmJ1lzKZ+5JquipS+C63ORNyZU587m1zWk7wroNRnTgCaEVb\nrvqSX9361QKBgQCGiUXfA/ipnT16EWdTyCQ/bNgR1iCKQp/zlscscvqCgJwcXb9g\naeRQNrtcH67jVPwQ+u/pLLU68DnaL2O9l8yzaMnazbV/4Qn9c4fhfKowF9KCrn5U\nZ38jM+myhQs3SyPxoNIzYSwWiBJylrvyFHZtpdzr3DAy3s+HsaHLm1s06QKBgBQr\nqx6E3QGJa5zH8A3RCWm8ZvJtb4kgGOhDw5y7zBS0Bt06C7XGgFkwHAHjaqk7SSZu\nHKjiPcvVniL5ySAa4BTHl7mz8+MEAomR2W55EzIlMrJx6FaE8MT/unr/pyA+X6qH\n8E3Wnxafea7I24+ZV/9cY9X0dz8bAsn2qA3wrKb5AoGAS8ns7zRVIzEWEmuNy2yV\nLDFho/PFJWazc73U+LHI4YYrkz061WUNmRqd+5Ln94s6w4xHcD3W4tuqZd1qGHjs\nlH6s9/0zLmb02pbH4JJYSrIfxLrOAQ8Gn3pRs2iEjsdJ8M8c1nSznnIetnRhnTmR\ngp8V4E4/ZYWI0oo5URxGEVI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lstm-microservice-service@lstm-microservice-setup-348220.iam.gserviceaccount.com",
+  "client_id": "110373882040567181818",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lstm-microservice-service%40lstm-microservice-setup-348220.iam.gserviceaccount.com"
+}
